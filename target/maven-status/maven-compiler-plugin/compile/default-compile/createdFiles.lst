@@ -1,0 +1,11 @@
+com\asimakis\trainermvc\configuration\HibernateConfiguration.class
+com\asimakis\trainermvc\controllers\TrainerController.class
+com\asimakis\trainermvc\configuration\AppInitializer.class
+com\asimakis\trainermvc\dao\TrainerDaoImpl.class
+com\asimakis\trainermvc\dao\ITrainerDao.class
+com\asimakis\trainermvc\configuration\AppConfig.class
+com\asimakis\trainermvc\dao\AbstractDao.class
+com\asimakis\trainermvc\services\ITrainer.class
+com\asimakis\trainermvc\entities\Trainer.class
+com\asimakis\trainermvc\entities\Trainer_.class
+com\asimakis\trainermvc\services\TrainerImpl.class

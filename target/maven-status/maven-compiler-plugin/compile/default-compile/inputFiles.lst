@@ -1,0 +1,10 @@
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\configuration\AppInitializer.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\dao\ITrainerDao.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\services\ITrainer.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\dao\TrainerDaoImpl.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\services\TrainerImpl.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\configuration\HibernateConfiguration.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\dao\AbstractDao.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\entities\Trainer.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\configuration\AppConfig.java
+C:\Users\Asimakis\Documents\NetBeansProjects\TrainerMVC\src\main\java\com\asimakis\trainermvc\controllers\TrainerController.java
